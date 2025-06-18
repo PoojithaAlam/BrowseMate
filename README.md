@@ -65,7 +65,7 @@ Or use the button below:
 
 <p align="left">
   <a href="https://your-app-url.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20App-Click%20Here-brightgreen?style=for-the-badge" alt="Open App">
+    <img src="https://browsemate.streamlit.app/" alt="Open App">
   </a>
 </p>
 
