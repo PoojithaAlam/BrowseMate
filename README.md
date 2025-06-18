@@ -64,8 +64,8 @@ Explore the app live:
 Or use the button below:
 
 <p align="left">
-  <a href="https://your-app-url.streamlit.app" target="_blank">
-    <img src="https://browsemate.streamlit.app/" alt="Open App">
+  <a href="https://browsemate.streamlit.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/logo.png" alt="Open App" width="200"/>
   </a>
 </p>
 
