@@ -1,4 +1,4 @@
-# 🌐 Browser MCP Agent
+# 🌐 BrowseMate - *An AI-powered agent that browses the web like a human.*
 
 Control a browser using natural language, powered by LLMs, Puppeteer, and Python's asyncio.
 
