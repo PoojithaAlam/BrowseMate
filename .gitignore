@@ -1,0 +1,29 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Environment variable files
+.env
+
+# Virtual environments (if you create one later)
+venv/
+.venv/
+ENV/
+env/
+
+# VS Code project settings (optional)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# YAML backup files (VS Code sometimes creates these)
+
+
+# Jupyter Notebook checkpoints (if you add notebooks later)
+.ipynb_checkpoints/
