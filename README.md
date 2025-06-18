@@ -59,15 +59,7 @@ streamlit run main.py
 
 Explore the app live:
 
-🔗 **[Click here to open Browser MCP Agent](https://browsemate.streamlit.app/)**
-
-Or use the button below:
-
-<p align="left">
-  <a href="https://browsemate.streamlit.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/logo.png" alt="Open App" width="200"/>
-  </a>
-</p>
+🔗 **[Click here to open BrowseMate](https://browsemate.streamlit.app/)**
 
 ⚠️ Note: If you don’t receive a response, it may be due to API token limitations. The token automatically refreshes every hour.
 
