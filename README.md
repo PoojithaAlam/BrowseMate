@@ -68,6 +68,7 @@ Or use the button below:
     <img src="https://img.shields.io/badge/Open%20App-Click%20Here-brightgreen?style=for-the-badge" alt="Open App">
   </a>
 </p>
+
 ## ⚠️ Prerequisites
 Python 3.8+
 
