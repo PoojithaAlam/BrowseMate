@@ -67,7 +67,7 @@ def render_ui(query, run_callback):
         st.markdown("#### 📍 Navigation")
         st.markdown("- Go to [en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)")
         st.markdown("#### 🎯 Interaction")
-        st.markdown("- Scroll down and summarize the page")
+        st.markdown("- Summarize the page")
         st.markdown("- Click on the link to object detection and take a screenshot")
         st.markdown("#### 🛠️ Multi-step Tasks")
         st.markdown("- Navigate to [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), scroll down and report details")
