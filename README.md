@@ -69,6 +69,8 @@ Or use the button below:
   </a>
 </p>
 
+⚠️ Note: If you don’t receive a response, it may be due to API token limitations. The token automatically refreshes every hour.
+
 ## ⚠️ Prerequisites
 Python 3.8+
 
