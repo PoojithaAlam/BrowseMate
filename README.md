@@ -52,14 +52,14 @@ streamlit run main.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/PoojithaAlam/BrowseMate/blob/92f4185ec12708be640b376afab984055a971716/BrowseMate.png)
 
 
 ##  🌍 Live Demo
 
 Explore the app live:
 
-🔗 **[Click here to open Browser MCP Agent](https://your-app-url.streamlit.app)**
+🔗 **[Click here to open Browser MCP Agent](https://browsemate.streamlit.app/)**
 
 Or use the button below:
 
